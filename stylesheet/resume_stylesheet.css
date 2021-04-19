@@ -1,0 +1,26 @@
+#container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5% 10%;
+    border: 5px;
+    border-style: solid;
+    padding: 5%;
+    color: black;
+}
+
+#header {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+}
+h1 {
+    font-size: 5em;
+}
+
+.home_link{
+    margin: 45%;
+    /* text-align: center; */
+}
